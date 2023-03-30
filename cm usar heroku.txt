@@ -9,4 +9,3 @@ abre o app
 		conecta com o github
 		coloca o nome do repositorio
 		able automatic deploys
-		deply branch

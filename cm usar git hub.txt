@@ -1,0 +1,32 @@
+repositorio já conectado e so quero atualizar 
+do github pro local
+mexi em nada
+1)git pull
+
+fiz alteração no codigo
+1) git add .
+2)git status
+3)git commit -m "xxxx"
+4)git pull
+5)git status
+se n der conflito
+6)git push
+
+repositorio já conectado e so quero atualizar 
+do local para o github
+1)git add .
+2) git pull origin master
+3)git commit -m "xxxxx"
+4)git push origin master
+
+repositorio do github e quero por local não existente
+1)git clone <link do github>
+
+criar repositorio do zero, ja existente no local
+***conferir se o nome da branch principal eh master
+    senão, trocar o nome
+1)git init
+2)git remote add origin URL-DO-REPOSITÓRIO
+3)git add .
+4)git commit -m "xxxxx"
+5)git push origin master

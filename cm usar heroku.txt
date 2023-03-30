@@ -1,0 +1,12 @@
+git cmd
+	heroku login
+	heroku create <nome>
+
+site heroku
+login
+abre o app
+	deploy
+		conecta com o github
+		coloca o nome do repositorio
+		able automatic deploys
+		deply branch
